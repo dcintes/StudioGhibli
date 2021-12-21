@@ -1,0 +1,22 @@
+.film__image {
+  width: 100%;
+}
+
+.film__panel-title {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+}
+
+.float-right {
+  float: right;
+}
+
+.mat-progress-bar {
+  height: 15px;
+}
+
+.minititle {
+  display: block;
+  font-weight: bold;
+}
