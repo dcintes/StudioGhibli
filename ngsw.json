@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1640111762390,
+  "timestamp": 1640189514728,
   "index": "https://dcintes.github.io/StudioGhibli/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://dcintes.github.io/StudioGhibli/favicon.ico",
         "https://dcintes.github.io/StudioGhibli/index.html",
-        "https://dcintes.github.io/StudioGhibli/main.ae52f93918e32c8a9450.js",
+        "https://dcintes.github.io/StudioGhibli/main.640fe2ac231d2b04fb59.js",
         "https://dcintes.github.io/StudioGhibli/manifest.webmanifest",
         "https://dcintes.github.io/StudioGhibli/polyfills.2ae1353c13c52dff00bb.js",
         "https://dcintes.github.io/StudioGhibli/runtime.723932a35f96892ab3e9.js",
@@ -81,8 +81,8 @@
     "https://dcintes.github.io/StudioGhibli/assets/icons/icon-72x72.png": "3618afac3eaba9e3f48eb42a42bf65f07d31b18e",
     "https://dcintes.github.io/StudioGhibli/assets/icons/icon-96x96.png": "4985e0accaf0f633d8766b7085f31fbdc7df7d2b",
     "https://dcintes.github.io/StudioGhibli/favicon.ico": "e8811011558c855a3db5dfeee0f7c10d63c42306",
-    "https://dcintes.github.io/StudioGhibli/index.html": "90250dbfa2c97aebb301d43160a9bbdd86630b4e",
-    "https://dcintes.github.io/StudioGhibli/main.ae52f93918e32c8a9450.js": "0deb2438b57c1d580a2aba758b1a977b9c8f9219",
+    "https://dcintes.github.io/StudioGhibli/index.html": "dcafb37913bfca6b8ff2b109e534d2f960ce91e0",
+    "https://dcintes.github.io/StudioGhibli/main.640fe2ac231d2b04fb59.js": "5cc5880d73bf17c0d23fe869a2068018c463cbd3",
     "https://dcintes.github.io/StudioGhibli/manifest.webmanifest": "c51294d57dcd2dc8a559e5c1af8b4b2bb0cc3248",
     "https://dcintes.github.io/StudioGhibli/polyfills.2ae1353c13c52dff00bb.js": "7fc52f971824e69b6c086a3be91b807912149bdf",
     "https://dcintes.github.io/StudioGhibli/runtime.723932a35f96892ab3e9.js": "4f3f7c75a7d398a8ebde2b8e8aed16edf0eeb46e",
